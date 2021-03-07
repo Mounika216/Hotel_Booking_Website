@@ -1,0 +1,20 @@
+html{
+    height: 100%;
+    width: 100%;
+}
+body{
+    height: 100%;
+    width: 100%;
+}
+.image{
+    height: 60px;
+    width: 60px;
+}
+.hotel{
+    height: 500px;
+    width: 500px;
+}
+.social{
+    height: 20px;
+    width: 22px;
+}
