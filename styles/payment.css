@@ -5,14 +5,40 @@ html{
 body{
     height: 100%;
     width: 100%;
+    margin: 0px 0px 0px 0px;
+    background-color: #e0e0e0;
+}
+
+header{
+    background-color: rosybrown;
+}
+footer{
+    background-color: rosybrown;
+}
+.add{
+    background-color: rgb(132,136,139);
+    width: 70%;
+    height: 82%;
+    margin: 2% auto; 
+}
+.details{
+    margin: 2% 2% 2% 2%;
+}
+.price{
+    margin: 2% 2% 2% 2%;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 5px;
+    padding: 1% 2%;
 }
 .image{
     height: 60px;
     width: 60px;
 }
-.hotel{
+img.hotel{
     height: 500px;
     width: 500px;
+    
 }
 .social{
     height: 20px;
